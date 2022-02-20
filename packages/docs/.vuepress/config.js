@@ -49,9 +49,9 @@ module.exports = ctx => ({
       }
     },
 
-    repo: 'git@github.com:lusaxweb/vuesax-next.git',
+    repo: 'git@github.com:fazuvpk/vuesax-next.git',
     lastUpdated: true,
-    linkPrevVersion: 'https://lusaxweb.github.io/vuesax/',
+    linkPrevVersion: 'https://fazuvpk.github.io/vuesax/',
     searchPlaceholder: 'Vuesax Search',
   }
 })
